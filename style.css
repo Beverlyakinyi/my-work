@@ -1,0 +1,59 @@
+#all{
+    padding: 300%;
+    margin-top: 300%;
+    border: 300%;
+
+
+
+
+}
+#allsection{
+    border-width: 20%;
+    border-top-left-radius: 56%;
+    border-bottom-left-radius: 56%;
+}
+#header{
+    display: flex;
+    gap: 10%;
+    border-bottom: 30%;
+    
+}
+#journey{
+    background-color: rgb(48, 48, 129);
+    font-size: 150%;
+    border: 20cap;
+    padding-left: 5%;
+    display: flex;
+    gap: 10%;
+    color: antiquewhite;
+}
+#picture{
+    padding-left:6%;
+}
+#you{
+    text-align: center;
+    gap: 20%;
+}
+#social{
+display: flex;
+gap: 10%;
+
+}
+#i{
+    display: flex;
+    gap: 5%;
+
+
+}
+#jambo{
+    background-color: rgb(99, 176, 202);
+    display: flex;
+    gap: 10%;
+    border-left: 40%;
+    padding-left: 10%;
+
+}
+#ice{
+    background-color: rgb(10, 10, 53);
+    text-align: center;
+}
